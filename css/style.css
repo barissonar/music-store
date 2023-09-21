@@ -1,0 +1,44 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #E9ECEF;
+}   
+
+.bg-black {
+   background-color: rgba(14, 13, 13, 0.904);
+}
+
+.bg-white {
+   background-color: white;
+}
+.float-left {
+   float: left; 
+}
+.col-white{
+   color: white;
+}
+.col-black{
+   color: black; 
+}
+.list-style-none {
+    list-style: none;
+}
+a:hover {
+    color: beige;
+    text-decoration: none;
+}
+
+.product-text {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.719);
+    color: white;
+    width: max-content;
+    position: absolute;
+  
+}
+.card{
+    float: left;
+    min-height: 500px;
+    margin: 20px 0px 0px 40px;
+}
